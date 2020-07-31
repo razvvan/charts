@@ -9,5 +9,3 @@ secrets: []
 # - name: barsecret
 #   data:
 #     .dockerconfigjson: "some other base64 o the dockerconfig json"
-
-
